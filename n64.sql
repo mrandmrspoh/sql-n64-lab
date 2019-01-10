@@ -19,3 +19,4 @@ INSERT INTO Games(title, year, developers, genre) VALUES('Star Wars: Shadow of t
 INSERT INTO Games(title, year, developers, genre) VALUES('Banjo-Kazooie', 1998, 'Rare', 'Platforming');
 INSERT INTO Games(title, year, developers, genre) VALUES('Mario Party', 1998, 'Hudson Soft', 'Party Game');
 INSERT INTO Games(title, year, developers, genre) VALUES('Tony Hawk''s Pro Skater' , 1996, 'Neversoft', 'Extreme Sports');
+INSERT INTO Games (title, year, developers, genre) VALUES ('F-Zero X', 1998, 'Nintendo EAD', 'Racing');
